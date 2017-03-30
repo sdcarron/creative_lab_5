@@ -1,8 +1,24 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  /*padding: 50px;*/
+  /*font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+  font-family:'Open Sans', sans-serif;
 }
 
-a {
-  color: #00B7FF;
+.page-header {
+  color: #0174a3;
 }
+.explanation {
+	color: #0099d8;
+	font-size: 18px;
+	padding-bottom: 5%;
+}
+.center {
+	background-color: #ccf0ff;
+	height:100vh;
+}
+/*.left {
+	height:100vh;
+}
+.right {
+	height:100vh;
+}*/
